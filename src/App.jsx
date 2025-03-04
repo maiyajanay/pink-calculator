@@ -1,6 +1,7 @@
-import { CalculatorWrapper } from "./components/CalculatorWrapper";
+import React from "react";
 import { Button } from "./components/Button";
 import { ButtonBox } from "./components/ButtonBox";
+import { CalculatorWrapper } from "./components/CalculatorWrapper";
 import { Screen } from "./components/Screen";
 import { useState } from "react";
 import Header from "./components/Header";
@@ -13,7 +14,7 @@ function App() {
     result: 0,
   });
 
-  let [history, setHistory] = useState < string > "";
+  let [history, setHistory] = useState("");
 
   const btnValues = [
     ["C", "D", "%", "/"],
