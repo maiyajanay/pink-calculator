@@ -1,0 +1,19 @@
+button {
+  border: none;
+  background-color: #f5e4e3;
+  color: #75070d;
+  font-weight: bold;
+  font-size: larger;
+  cursor: pointer;
+  border-radius: 100px;
+  outline: none;
+}
+
+button:hover {
+  background-color: #ddcbcb;
+}
+
+.equals {
+  grid-column: 3 / 5;
+  /* background-color: rgb(243, 61, 29); */
+}

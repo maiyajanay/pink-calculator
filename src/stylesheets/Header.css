@@ -1,0 +1,15 @@
+.header {
+  text-align: center;
+}
+
+.header h1 {
+  font-family: "Pinyon Script", serif;
+  font-size: 4rem;
+  color: #75070d;
+}
+
+.header h2 {
+  color: #75070d;
+  font-weight: 100;
+  margin-bottom: 1rem;
+}
