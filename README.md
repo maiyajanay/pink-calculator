@@ -1,12 +1,56 @@
-# React + Vite
+# Pink Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple mathmatical calculator built using React.
 
-Currently, two official plugins are available:
+## Built With
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [**React**](https://react.dev/) - Used for building the dynamic user interface of the app.
+- **Vanilla CSS** - Styles the application, using flexbox and media queries for responsive design.
+- **React State**
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow the instructions below to get the project up and running on your local machine.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+
+### Installation
+
+1. Clone the repository:
+
+```
+git clone https://github.com/maiyajanay/pink-calculator.git
+```
+
+2. Navigate to the correct directory
+
+```
+cd pink-calculator
+```
+
+3. Install the dependencies:
+
+```
+npm install
+```
+
+### Running the Application
+
+1. Start the development server:
+
+```
+npm run dev
+```
+
+## Authors
+
+- **Maiya Hoard** - [LinkedIn](https://www.linkedin.com/in/maiyahoard/)
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to me at [maiyajanay@gmail.com].
